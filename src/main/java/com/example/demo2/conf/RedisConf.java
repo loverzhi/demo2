@@ -22,6 +22,5 @@ public class RedisConf {
 
     public static void main(String[] args){
         System.out.print("xxx");
-        System.out.print("123");
     }
 }
